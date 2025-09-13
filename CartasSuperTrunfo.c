@@ -77,7 +77,15 @@ int main() {
     printf("Pib: %.2f bihoes\n, pib1");
     printf("Pontos turisticos: %d\n, pontos_turisticos1");
 
-
+    //Exibicao Resultados - Carta 2
+    printf("\nDados da segunda Carta: \n");
+    printf("Estado: %s\n", estado2);
+    printf("Código: %s/n", codigo2);
+    printf("Nome da cidade: %s/n", nome cidade2);
+    printf("População: %d/n", populacao2);
+    printf("Área: %.2f km²/n", area2);
+    printf("Pib: %.2f bihoes\n, pib2");
+    printf("Pontos turisticos: %d\n, pontos_turisticos2");
 
 return 0;
-} 
+}
